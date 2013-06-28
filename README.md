@@ -29,5 +29,5 @@ We welcome all to participate in making Chosen the best software it can be. The 
 This version of Chosen seeks to accomplish a few key modifications:
 
 - Resolution indepence through the use of an icon font rather than CSS sprites. Having a data URI in the CSS file also eliminates the need for an additional HTTP request to get the sprite image.
-- Use of relative units rather than pixels.
-- Moving the unselect "X" icon to the left side of selections to make it easier to quickly discard choices.
+- Use of relative units rather than pixels, and more generous padding in general.
+- Moving the unselect "X" icon to the left side of selections to make it easier to quickly discard multiple choices.
